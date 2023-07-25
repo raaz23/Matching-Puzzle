@@ -1,5 +1,4 @@
-# Matching-Puzzle
-Matching Puzzle
+# ColorMatching-Puzzle
 MatchingPuzzle is a web-based game where players are challenged to match colors to their corresponding choices. The game features a timer, adding a sense of urgency to make quick decisions. Players have 30 seconds to match as many colors as possible, and every correct match earns them a point. However, making a wrong match deducts points, so it requires both speed and accuracy to get a high score.
 
 Tech Stack:
